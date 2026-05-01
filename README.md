@@ -1,5 +1,5 @@
 # Demo-Site-Project
-This project was built for stockgap Fuels as a demo-website and as proof of expeerience for Corporate webmaster applicatation.
+This project was built for stockgap Fuels as a demo-website and as proof of experience for Corporate webmaster applicatation.
 
 # Tools Used
 - Wordpress
