@@ -3,6 +3,7 @@ This project was built for stockgap Fuels as a demo-website and as proof of expe
 
 # Tools Used
 - Wordpress
+- Astra theme/earth
 - Xampp for database
 - VMware player hypervisor
 - Windows 11 (Virtualized)
