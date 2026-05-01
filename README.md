@@ -10,4 +10,8 @@ This project was built for stockgap Fuels as a demo-website and as proof of expe
   ![image alt](https://github.com/ibamatech/Demo-Site-Project/blob/main/1.png?raw=true)
   ![image_alt](https://github.com/ibamatech/Demo-Site-Project/blob/main/2.png?raw=true)
   ![image_alt](https://github.com/ibamatech/Demo-Site-Project/blob/main/3.png?raw=true)
+  ![image_alt](https://github.com/ibamatech/Demo-Site-Project/blob/main/4.png?raw=true)
+  ![image_alt](https://github.com/ibamatech/Demo-Site-Project/blob/main/5.png?raw=true)
+  ![image_alt](https://github.com/ibamatech/Demo-Site-Project/blob/main/6.png?raw=true)
+  ![image_alt](https://github.com/ibamatech/Demo-Site-Project/blob/main/7.png?raw=true)
   
