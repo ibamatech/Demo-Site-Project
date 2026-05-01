@@ -7,4 +7,4 @@ This project was built for stockgap Fuels as a demo-website and as proof of expe
 - Xampp for database
 - VMware player hypervisor
 - Windows 11 (Virtualized)
-  ![image alt](image_url)https://github.com/ibamatech/Demo-Site-Project/blob/main/1.png?raw=true
+  ![image alt](https://github.com/ibamatech/Demo-Site-Project/blob/main/1.png?raw=true)
